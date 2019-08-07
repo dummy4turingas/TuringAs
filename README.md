@@ -1,4 +1,4 @@
-# VoltaAs: SASS assembler for NVIDIA Volta and Turing
+# TuringAs: SASS assembler for NVIDIA Volta and Turing
 
 ## Requirements:
 * Pyhthon >= 3.6
