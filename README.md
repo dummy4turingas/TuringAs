@@ -1,5 +1,9 @@
 # TuringAs: SASS assembler for NVIDIA Volta and Turing
 
+---
+* Artifact of PPoPP'20 submission: *Optimizing Batched Winograd Convolution* (under review)
+---
+
 ## Requirements:
 * Pyhthon >= 3.6
 
